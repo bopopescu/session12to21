@@ -1,3 +1,4 @@
+""""
 def squareOfNumber(num=1):
     return num * num
 
@@ -31,7 +32,7 @@ from functools import reduce
 
 result = reduce(lm2, punjabPopulation)
 print("Total Population is:",result)
-
+"""
 # Explore the same with other Sequences :)
 
 employees = [
